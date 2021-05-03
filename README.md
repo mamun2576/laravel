@@ -1,2 +1,2 @@
 # laravel
- leravel
+ laravel
